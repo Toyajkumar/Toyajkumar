@@ -6,7 +6,7 @@
 
 <!-- Introduction -->
 <h1 align="center">Hello, I'm Toyaj Yadav 👋</h1>
-<p align="center">Passionate Data Scientist | Visual Storyteller | Tech Explorer</p>
+<p align="center">Passionate Data Analyst | Visual Storyteller | Tech Explorer</p>
 
 <!-- About Me -->
 <p align="center">
