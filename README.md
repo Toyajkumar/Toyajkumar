@@ -31,7 +31,7 @@
 <!-- Let's Connect -->
 <h2 align="center">📬 Let's Connect</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/toyaj-yadav">LinkedIn</a> | <a href="mailto:trjob955@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/toyajyadav/">LinkedIn</a> | <a href="mailto:trjob955@gmail.com">Email</a>
 </p>
 
 <!-- Fun Fact -->
