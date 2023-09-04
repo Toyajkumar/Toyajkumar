@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Toyajkumar/Toyajkumar/main/data-analytics-banner.jpg" alt="Banner" width="800" />
+  <img src="https://raw.githubusercontent.com/Toyajkumar/Toyajkumar/main/data-analytics-banner.gif" alt="Banner" width="800" />
 </p>
 
 
